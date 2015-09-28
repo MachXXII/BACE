@@ -21,9 +21,12 @@ Phase 2 , space stations
 -
 
 Phase 3 , asteriods
+-hollowed out asteriods for crew/fuel/etc
 
 Phase 4 , deep space^
-
+-structural trusses
+-gravity centrifuge
+-propulsion(ion)
 
 Key:
 * later relase 
