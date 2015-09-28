@@ -7,9 +7,14 @@ Planning (phase 1)surface
 -solar farm
 -refinery
 -fuel storage 
+-ore storage
 -sci lab 
 -observatory 
 -nuclear reactor
+-biodome
+-comms
+-life support modules*
+
 
 Phase 2 , space/orbital
 -
