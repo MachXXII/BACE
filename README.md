@@ -9,7 +9,7 @@ Planning (phase 1)surface
 -fuel storage 
 -ore storage
 -sci lab 
--observatory 
+-observatory/telescope/coupula
 -nuclear reactor
 -biodome
 -comms
