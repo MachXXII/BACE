@@ -13,6 +13,8 @@ Planning (phase 1)surface
 -nuclear reactor
 -biodome
 -comms
+-drilling module 
+-aero/heat shield
 -life support modules*
 
 Phase 2 , space stations
