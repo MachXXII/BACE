@@ -15,6 +15,14 @@ Planning (phase 1)surface
 -comms
 -life support modules*
 
-
-Phase 2 , space/orbital
+Phase 2 , space stations
 -
+
+Phase 3 , asteriods
+
+Phase 4 , deep space^
+
+
+Key:
+* later relase 
+^ possible, not 100%
