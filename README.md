@@ -1,7 +1,9 @@
 # BACE
 The BACE(pronounced base) is a mod originally made by novasilisko. 
 
-Planning (phase 1)surface
+Planning 
+
+phase 1 surface
 -4 crew had
 -storage (Kas)
 -solar farm
@@ -15,12 +17,12 @@ Planning (phase 1)surface
 -comms
 -drilling module 
 -aero/heat shield
--life support modules*
+-life support modules#
 
 Phase 2 , space stations
 -
 
-Phase 3 , asteriods
+Phase 3 , asteroids
 -hollowed out asteriods for crew/fuel/etc
 
 Phase 4 , deep space^
@@ -29,5 +31,5 @@ Phase 4 , deep space^
 -propulsion(ion)
 
 Key:
-* later relase 
+# later release
 ^ possible, not 100%
