@@ -3,7 +3,7 @@ The BACE(pronounced base) is a mod originally made by novasilisko.
 
 Planning 
 
-phase 1 surface
+Phase 1 , surface
 -4 crew had
 -storage (Kas)
 -solar farm
@@ -20,7 +20,7 @@ phase 1 surface
 -life support modules#
 
 Phase 2 , space stations
--
+-components 
 
 Phase 3 , asteroids
 -hollowed out asteriods for crew/fuel/etc
