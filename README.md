@@ -30,6 +30,6 @@ Phase 4 , deep space^
 -gravity centrifuge
 -propulsion(ion)
 
-Key:
+Key 
 # later release
 ^ possible, not 100%
