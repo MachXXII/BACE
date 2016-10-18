@@ -4,7 +4,7 @@ The BACE(pronounced base) is a mod originally made by novasilisko.
 Planning 
 
 Phase 1 , surface
--4 crew had
+-4 crew hab
 -storage (Kas)
 -solar farm
 -refinery
@@ -30,6 +30,6 @@ Phase 4 , deep space^
 -gravity centrifuge
 -propulsion(ion)
 
-Key 
-# later release
-^ possible, not 100%
+ 
+* later release 
+
