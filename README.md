@@ -17,7 +17,7 @@ Phase 1 , surface
 -comms
 -drilling module 
 -aero/heat shield
--life support modules#
+-life support modules*
 
 Phase 2 , space stations
 -components 
