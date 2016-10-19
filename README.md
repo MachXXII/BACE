@@ -27,10 +27,6 @@ components
 Phase 3 , asteroids
 hollowed out asteriods for crew/fuel/etc
 
-Phase 4 , deep space^
-structural trusses
-gravity centrifuge
-propulsion(ion)
 
  
 
