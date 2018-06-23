@@ -1,7 +1,7 @@
 # BACE
-The BACE(pronounced base) is a mod originally made by novasilisko. 
+The BACE(pronounced base) is a mod originally made by NovaSilisko. 
 
-Planning 
+# Plan 
 ---main goals
 Phase 1 , surface
 4 crew hab
@@ -22,7 +22,7 @@ life support modules*
 Phase 2 , space stations
 components 
 
----future goals
+# future goals
 
 Phase 3 , asteroids
 hollowed out asteriods for crew/fuel/etc
